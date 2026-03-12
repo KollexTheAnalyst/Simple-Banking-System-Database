@@ -4,7 +4,7 @@
 This project implements a Simple Banking System using SQL to demonstrate practical relational database design and data analysis skills. The system models core banking operations by managing customers, accounts, and transactions within a structured relational database. The project focuses on database schema design, data relationships, and SQL queries used to retrieve and analyze banking data. It simulates real-world financial data scenarios and demonstrates how SQL can be used to support operational insights in a banking environment.
 
 # Objectives
-The primary objectives of this project are to:
+## The primary objectives of this project are to:
 * Design a relational database schema for a banking system.
 * Implement table relationships using primary and foreign keys.
 * Populate the database with realistic sample banking data.
@@ -12,7 +12,7 @@ The primary objectives of this project are to:
 * Demonstrate data organization and analytical querying techniques.
 
 # Database Structure
-The system consists of three main entities:
+## The system consists of three main entities:
 1. Customers
 Stores personal and demographic information about bank customers.
 
@@ -51,7 +51,7 @@ Customer → Account → Transaction
 This relationship structure ensures data integrity and traceability of financial activities.
 
 # SQL Concepts Demonstrated
-This project applies several key SQL concepts, including:
+## This project applies several key SQL concepts, including:
 * Table creation using `CREATE TABLE`
 * Primary and foreign key constraints
 * Data insertion using `INSERT INTO`
@@ -64,7 +64,7 @@ This project applies several key SQL concepts, including:
 * Basic data analysis and reporting queries
 
 # Sample Analytical Queries
-Some examples of insights generated in the project include:
+## Some examples of insights generated in the project include:
 * Listing all customers and their accounts
 * Identifying customers with multiple accounts
 * Retrieving high-balance accounts
@@ -74,7 +74,7 @@ Some examples of insights generated in the project include:
 These queries demonstrate how SQL can be used for operational reporting and financial data analysis.
 
 # Dataset
-The project uses a sample dataset that includes:
+## The project uses a sample dataset that includes:
 * 25–30 customers
 * 40–60 accounts
 * Approximately 100 transactions
@@ -88,7 +88,7 @@ The dataset is designed to simulate realistic banking activity, where customers 
 * GitHub for version control
 
 # Project Purpose
-This project was created as part of a data analytics portfolio to demonstrate:
+## This project was created as part of a data analytics portfolio to demonstrate:
 * SQL proficiency
 * Relational database design
 * Analytical querying
@@ -97,6 +97,6 @@ This project was created as part of a data analytics portfolio to demonstrate:
 It is intended to showcase practical database skills applicable to data analyst, business intelligence, and database roles.
 
 # Author
-Kolawole Ilesanmi
+## Kolawole Ilesanmi
 Data Analyst | Business Intelligence Developer
 
