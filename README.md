@@ -79,9 +79,11 @@ These queries demonstrate how SQL can be used for operational reporting and fina
 
 # Dataset
 ## The project uses a sample dataset that includes:
-[customers](Customers Table - Sheet1.csv)
-[40–60 accounts](Accounts Table - Sheet1.csv)
-[100 transactions](Transactions Table - Sheet1.csv)
+[customers](https://github.com/KollexTheAnalyst/Simple-Banking-System-Database/blob/main/Customers%20Table%20-%20Sheet1.csv)
+
+[accounts](https://github.com/KollexTheAnalyst/Simple-Banking-System-Database/blob/main/Accounts%20Table%20-%20Sheet1.csv)
+
+[transactions](https://github.com/KollexTheAnalyst/Simple-Banking-System-Database/blob/main/Transactions%20Table%20-%20Sheet1.csv)
 
 The dataset is designed to simulate realistic banking activity, where customers may own multiple accounts and perform various financial transactions.
 
